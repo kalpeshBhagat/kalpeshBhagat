@@ -4,10 +4,10 @@
   <em>I transform ideas into digital realities, crafting seamless web solutions with a passion for accessibility and innovation.</em>
 </p>
 
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Code%20with-Consistency-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Todoist-Productive-red?style=for-the-badge&logo=todoist" />
-</div> -->
+<div align="center">
+  ![Code with Consistency](https://img.shields.io/badge/Code%20with-Consistency-orange?style=for-the-badge&logo=git)
+  ![Todoist](https://img.shields.io/badge/Todoist-Productive-red?style=for-the-badge&logo=todoist)
+</div>
 
 ---
 
@@ -20,20 +20,21 @@ Hi! I'm Kalpesh Bhagat, a passionate full-stack developer focused on building sc
 ## 🚀 I usually work on
 
 <div align="center" style="padding: 1rem; border: 2px dashed #eee; border-radius: 1rem;">
-	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-	![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-	![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-	![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 ## 💙 I love to explore
 
 <div align="center" style="padding: 1rem; border: 2px dashed #eee; border-radius: 1rem;">
-	![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-	![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-	![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 </div>
 
 ---
